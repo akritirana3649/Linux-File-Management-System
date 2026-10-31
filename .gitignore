@@ -1,0 +1,10 @@
+activity.log
+Backups/
+College/
+MyDocuments/
+*.save
+project_test.txt
+project_copy.txt
+restored_project.txt
+student.txt
+student_copy.txt
